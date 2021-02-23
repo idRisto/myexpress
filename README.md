@@ -1,4 +1,4 @@
 # myExpress
 Tutustutaan REST APIn tekoon
 ## Express
-Express.js on Framework
+Olin tehnyt gitignoren väärin ja sen korjailin
